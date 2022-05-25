@@ -1,0 +1,26 @@
+{
+   "workbench.colorTheme": "Aura Dark",
+   "workbench.iconTheme": "material-icon-theme",
+   "tabnine.experimentalAutoImports": true,
+   "typescript.inlayHints.parameterNames.enabled": "literals",
+   "typescript.inlayHints.variableTypes.enabled": false,
+   "typescript.inlayHints.functionLikeReturnTypes.enabled": false,
+   "typescript.inlayHints.propertyDeclarationTypes.enabled": false,
+   "editor.parameterHints.enabled": false,
+   "editor.cursorStyle": "line-thin",
+   "editor.cursorBlinking": "expand",
+   "editor.minimap.enabled": true,
+   "editor.minimap.scale": 1,
+   "editor.tabSize": 3,
+   "editor.detectIndentation": true,
+   "editor.renderLineHighlight": "gutter",
+   "editor.suggestSelection": "first",
+   "editor.suggest.preview": true,
+   "editor.suggest.showDeprecated": true,
+   "editor.inlineSuggest.enabled": true,
+   "editor.codeActionsOnSave": {
+      "source.fixAll": true
+   },
+   "scm.alwaysShowActions": true,
+   "workbench.startupEditor": "none"
+}
